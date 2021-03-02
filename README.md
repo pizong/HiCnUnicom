@@ -50,7 +50,7 @@ APPID(翻到下面有如何得到自己的APPID方法)
 即`UTC0时区`23:05=`UTC+8`15:05,如你想要它在上午10:30运行，相应的UTC0时区就是02:30  
 cron表达式为:`- cron: 30 02 * * *`  
 
-## 感谢
+## 感谢xiexue
 感觉原仓库的`commit`比较乱，所以自己新开了个仓库  
 
 Fork自：https://github.com/mixool/HiCnUnicom  
